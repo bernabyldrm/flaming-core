@@ -5,11 +5,11 @@ A 2D action game developed in C using the raylib library as a university team pr
 
 ## 🎮 Game Preview
 
-**Main Menu**  
-menu.png  
+### Main Menu
+![Main Menu](menu.png)
 
-**Level 1 Gameplay**  
-level1.png
+### Level 1 Gameplay
+![Level 1 Gameplay](level1.png)
 
 ## About
 
